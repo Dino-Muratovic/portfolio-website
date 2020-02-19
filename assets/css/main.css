@@ -1621,6 +1621,9 @@ input, select, textarea {
 	}
 
 /* Image */
+	
+
+	
 
 	.image {
 		display: inline-block;
@@ -1635,6 +1638,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			
 		}
 
 		.image.featured {
@@ -1909,6 +1913,9 @@ input, select, textarea {
 			}
 
 /* Box */
+	
+	
+	
 
 	.box {
 		background: #fff;
